@@ -1,5 +1,7 @@
 # Git - Quick Primer
 
+edit for me added
+
 A fast-paced introduction to version control and git.
 If you want the full blown experience, see the git scm book: https://git-scm.com/book/en/v2
 
